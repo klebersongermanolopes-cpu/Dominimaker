@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node tools/serve.mjs",
     "headers": "node tools/gen-headers.mjs",
-    "test": "node --test test/"
+    "test": "node --test"
   },
   "engines": {
     "node": ">=20"
